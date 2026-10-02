@@ -1,6 +1,7 @@
 // TODO: musimy dodac brakujace klasy!
 
-// Ok, Ja dodam 'Adder', a s36223 doda 'Substractor'
+// Ok, Ja dodam 'Adder', a s36223 doda 'Substractor'.
+
 public class Main {
     static void main() {
         Adder adder = new Adder();
